@@ -4,6 +4,8 @@
   
   - mokwon Univ. Computer Science 22
 
+  - Machine Learning Engineer
+
 <h2><b>🛠 Stack 🛠</b></h2>
 </br>
 <p align="center">
