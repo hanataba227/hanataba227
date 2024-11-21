@@ -1,7 +1,5 @@
 <h2><b>💻 Profile</b></h2>
 
-  - Limhuijin
-  
   - mokwon Univ. Computer Science 22
 
   - Machine Learning Engineer
