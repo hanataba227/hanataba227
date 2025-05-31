@@ -11,9 +11,6 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squaree&logo=Python&logoColor=white"></a> &nbsp
   
-## BLOG
-[하나타바의 일기장](https://gabriel227.tistory.com/)
-   
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gabriel227)](https://solved.ac/gabriel227/)
 
