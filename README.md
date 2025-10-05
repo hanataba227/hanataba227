@@ -1,17 +1,24 @@
-<h2><b>💻 Profile</b></h2>
+## HanaTaba227
 
-  - mokwon Univ. Computer Science 22
+> My name is Lim HuiJin and also known as HanaTaba227.  
+> I am a student specializing in AI Vulnerability Management.
 
-  - Machine Learning Engineer
+<br/>
 
-<h2><b>🛠 Stack 🛠</b></h2>
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a> &nbsp
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-squaree&logo=Python&logoColor=white"></a> &nbsp
+- Education : Mokwon Univ. Department of Computer Engineering 22
+- Email : gabriel227@naver.com
   
-## BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gabriel227)](https://solved.ac/gabriel227/)
+<br/>
 
-## 📜 CAREER
+## Profile
+
+- KITRI WhiteHat School 3rd *(2025-present)*
+- DSC(Daejeon, Sejong, Chungnam Regional Innovation Platform),  
+   Double Major in Mobility SW & AI Convergence *(2024-present)*
+- Mokwon University, Department of Computer Engineering *(2022-present)*
+
+<br/>
+
+## BOJ
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gabriel227)](https://solved.ac/gabriel227)
