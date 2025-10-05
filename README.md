@@ -6,7 +6,7 @@
 <br/>
 
 - Education : Mokwon Univ. Department of Computer Engineering 22
-- Email : gabriel227@naver.com
+- Email : hanataba227@gmail.com
   
 <br/>
 
