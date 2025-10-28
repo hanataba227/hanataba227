@@ -12,7 +12,7 @@
 
 ## Profile
 
-- KITRI WhiteHat School 3rd *(2025-present)*
+- KITRI WhiteHat School 3rd *(2025)*
 - DSC(Daejeon, Sejong, Chungnam Regional Innovation Platform),  
    Double Major in Mobility SW & AI Convergence *(2024-present)*
 - Mokwon University, Department of Computer Engineering *(2022-present)*
