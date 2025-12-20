@@ -1,7 +1,6 @@
 ## HanaTaba227
 
-> My name is Lim HuiJin and also known as HanaTaba227.  
-> I am a student specializing in AI Vulnerability Management.
+> AI Red Teaming & Backend Engineer
 
 <br/>
 
