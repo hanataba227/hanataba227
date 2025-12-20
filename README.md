@@ -1,6 +1,6 @@
 ## HanaTaba227
 
-> AI Red Teaming & Backend Engineer
+> AI Backend Engineer
 
 <br/>
 
